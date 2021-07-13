@@ -1,0 +1,2 @@
+def booking(email,password):
+ print("inside booking")
