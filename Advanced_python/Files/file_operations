@@ -1,0 +1,9 @@
+hi
+hello
+hi
+
+2 types of operations:
+
+read   (r) - read the contents of a file.................denoted by r
+write  (w) - add data into a file.............rewrites the contents of an already existing file
+append (a) - same as write....................writes data to the end of an already existing file
